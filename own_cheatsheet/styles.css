@@ -1,0 +1,41 @@
+* {
+    box-sizing: border-box;
+}
+
+body{
+    background-color: #DCDCDC;
+}
+
+h1{
+    text-align: center;
+}
+
+h2{
+    color:blueviolet;
+    text-align: center;
+}
+
+table, td, th {
+    border: 1px solid black;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    
+}
+
+table{
+    position: relative;
+    left: 350px;
+    width: 600px;
+}
+
+th{
+    background-color: #dda0dd;
+    text-align: center;
+}
+
+td{
+    text-align: justify;
+}
+
+td:hover{
+    background-color: dodgerblue;
+}
